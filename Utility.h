@@ -3,7 +3,7 @@
 #include "Element.h"
 
 // Main function for doing calculations
-std::string calculator();
+void calculator();
 
 //* Makes a binary tree that can hold the expression
 // For example, if the expression is 1 + 2 * 3
