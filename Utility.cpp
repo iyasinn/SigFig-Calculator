@@ -1,7 +1,7 @@
 #include "Utility.h"
 #include <string>
 
-std::string calculator() {
+void calculator() {
 
 	std::string input;
 	std::cout << "Enter an expression! No spaces! \n\n";
