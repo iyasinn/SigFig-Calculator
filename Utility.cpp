@@ -69,6 +69,8 @@ std::string evaluateExpression(Element* node) {
 		case('-'):
 			return addOrSubtract(a, b, '-');
 	}
+	
+	return "";
 }
 
 //---------------------------------Helper Functions for evaluateExpresion------------------------------------------------------
@@ -128,7 +130,8 @@ std::string multiplyOrDivide(std::string a, std::string b, char operation) {
 			return temp;
 		}
 	}
-
+	
+	return "";
 }
 
 std::string addOrSubtract(std::string a, std::string b, char operation) {
