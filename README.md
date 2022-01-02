@@ -15,8 +15,8 @@ Significant Digit Rules:
 
 Examples:
 
-1.0001   --->   5 sig figs
-1230     --->   4 sig figs
-1230.    --->   5 sig figs
-101      --->   3 sig figs
-1010     --->   3 sig figs
+1.0001   --->   5 sig figs <br/>
+1230     --->   4 sig figs <br/>
+1230.    --->   5 sig figs <br/>
+101      --->   3 sig figs <br/>
+1010     --->   3 sig figs <br/>
