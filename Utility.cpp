@@ -13,9 +13,7 @@ std::string calculator() {
 	printExpression(expression);
 	std::cout << "\n\nAnswer: " << answer << "\n";
 	std::cout << "Sig figs: " << getSigFigs(answer) << "\n";
-	std::cout << "Decimal Places: " << getDecimalPlaces(answer) << "\n";
-
-	return "\nSuccess!\n\n";
+	std::cout << "Decimal Places: " << getDecimalPlaces(answer) << "\n\n";
 }
 
 Element* makeExpressionTree(std::string input) {
