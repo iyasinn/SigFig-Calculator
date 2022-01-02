@@ -29,5 +29,5 @@ Example Expressions:
 
 1.0+2.3/4.5*3.4 <br/>
 1.0+2.0 <br/>
-3.4/5.4 <br/>
+3.4/5.4 <br/> <br/>
 Note: Do not enter spaces between the numbers. Do not put negative signs before the first number. To get around this, you can write -5 as 0-5. 
