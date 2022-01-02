@@ -16,7 +16,7 @@ int main() {
 
 		switch (input) {
 			case(1):
-				std::cout << calculator();
+				calculator();
 				break;
 			case(2):
 				std::cout << "Have a good day! \n";
